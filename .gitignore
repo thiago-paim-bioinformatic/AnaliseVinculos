@@ -1,0 +1,12 @@
+.venv/
+.env
+*.ps1
+*.pyc
+*.json
+*_graph.py
+*_prompt.txt
+db/
+__pycache__/
+main.py
+*.html
+lib/
